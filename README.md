@@ -23,7 +23,7 @@ Users should be able to:
 
 
 
-![](./screenshot.jpg)
+![](screenshot.jpg)
 
 
 
@@ -33,7 +33,7 @@ Users should be able to:
 
 
 
-![](./screenshot-mobile.jpg)
+![](screenshot-mobile.jpg)
 
 
 
